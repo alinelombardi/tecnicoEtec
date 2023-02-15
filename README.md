@@ -1,4 +1,4 @@
-# Curso técnico Desenvolvimento de Sistemas - ETEC
+# Curso técnico Desenvolvimento de Sistemas - ETEC (em andamento)
 
 
-Atividades realizadas no decorrer do curso em andamento. 
+Atividades realizadas no andamento do curso
